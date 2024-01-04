@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+In 2024 I am gonna start blogging about cycling, programming, cooking and tech stuff.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Not much to say about me.
