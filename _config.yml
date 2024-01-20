@@ -18,7 +18,7 @@ instagram_username: uewekenuewe
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+theme: "jekyll-theme-dinky"
 
 rss: rss
 
