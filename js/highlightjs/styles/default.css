@@ -91,7 +91,7 @@ Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
 /* Misc effects */
 
 .hljs-emphasis {
-  font-style: italic;
+  font-style: consolas;
 }
 
 .hljs-strong {
