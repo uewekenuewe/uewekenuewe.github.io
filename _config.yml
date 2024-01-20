@@ -1,42 +1,32 @@
-title: "uewekenuewe's Blogs"
-author: "Uwe Schmidt aka uewekenuewe"
-description: "Sharing my thoughts about cycling, techstuff" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: uewekenuewe's Blogs
+email: derFeind87@gmail.com
+description: 
+  Sharing my thoughts about cycling, techstuff
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: uewekenuewe
 
-# Email / Social media user names used by the minima theme:
-# All of these are optional and can be removed or commented out
-email: "derFeind87@gmail.com"
-#twitter_username: "twitteruser"
-github_username: "uewekenuewe"
-linkedin_username: "uwe-schmidt-261a92170"
-#facebook_username: username
-#flickr_username: username
-instagram_username: uewekenuewe
-#pinterest_username: username
-#youtube_username: username
-#googleplus_username: +username
-
-#########################################################################################
-######### Nothing below needs to be changed (unless you know what you're doing) #########
-#########################################################################################
-theme: "jekyll-theme-dinky"
-
-rss: rss
-
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
-    
+# Build settings
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
 
-titles_from_headings:
-  strip_title: true
-  collections: true
-
-defaults:
-  - scope:
-      path: ""
-      type: post
-    values:
-      tags: Other
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
