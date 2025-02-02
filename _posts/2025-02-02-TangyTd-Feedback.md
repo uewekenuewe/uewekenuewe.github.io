@@ -28,7 +28,7 @@ I would like to game to have a grind where heros can placed more easly. I starte
 l   https://github.com/uewekenuewe/uewekenuewe.github.io/imges/tangytd/
 # collection    
 Scrolling is messed up here. On libary screen scrolling just works fine. 
-![collection](https://github.com/uewekenuewe/uewekenuewe.github.io/imges/tangytd/collection.png)
+![collection](https://github.com/uewekenuewe/uewekenuewe.github.io/blob/9f9a9a1f69e4b956b837beb475a921562ce59d26/images/tangytd/collection.png)
 
 # hero hotkeys numbers
 For my game they are off see screenshot. Nice would be that first hero is on one, second hero on two and so on.
