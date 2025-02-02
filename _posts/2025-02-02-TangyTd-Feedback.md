@@ -25,23 +25,30 @@ First start of the game default volume was zero.
 # hero placement 
 I would like to game to have a grind where heros can placed more easly. I started playing on my touch pad and then switch back playing with mouse does make the game easier.   
 
-l   https://github.com/uewekenuewe/uewekenuewe.github.io/imges/tangytd/
 # collection    
 Scrolling is messed up here. On libary screen scrolling just works fine. 
 ![collection](https://github.com/uewekenuewe/uewekenuewe.github.io/blob/9f9a9a1f69e4b956b837beb475a921562ce59d26/images/tangytd/collection.png)
 
 # hero hotkeys numbers
 For my game they are off see screenshot. Nice would be that first hero is on one, second hero on two and so on.
-![numbers](https://github.com/uewekenuewe/uewekenuewe.github.io/imges/tangytd/numbers.png)
+![numbers](https://github.com/uewekenuewe/uewekenuewe.github.io/blob/328a78ae39d32664b04cec254446e75d291b7ecf/images/tangytd/numbers.png)
 
 # animation left overs
 When a round is over there are some animation left overs, which are not finishing or cleanedup.
-![leftover1](https://github.com/uewekenuewe/uewekenuewe.github.io/imges/tangytd/leftover1.png)
-![leftover2](https://github.com/uewekenuewe/uewekenuewe.github.io/imges/tangytd/leftover2.png)
+![leftover1](https://github.com/uewekenuewe/uewekenuewe.github.io/blob/328a78ae39d32664b04cec254446e75d291b7ecf/images/tangytd/leftover1.png)
+![leftover2](https://github.com/uewekenuewe/uewekenuewe.github.io/blob/328a78ae39d32664b04cec254446e75d291b7ecf/images/tangytd/leftover2.png)
 
 # navigation - leave skill screen
 For more easier navigation it would be really nice if you can close the skill screen with the right mouse button. So far only escape is working. This change makes the game nicer to play only wih mouse.
 
 # gamestats recap - game over screen
 When game is los then some screen with recap screen is shown. This is really hard to read since it is sooo tiny.
-![gameover](https://github.com/uewekenuewe/uewekenuewe.github.io/imges/tangytd/gameover.png)
+![gameover](https://github.com/uewekenuewe/uewekenuewe.github.io/blob/328a78ae39d32664b04cec254446e75d291b7ecf/images/tangytd/gameover.png)
+
+# V
+There is random V on the screen or I might not got to the part of the game where this is relevant.
+![gameover](https://github.com/uewekenuewe/uewekenuewe.github.io/blob/328a78ae39d32664b04cec254446e75d291b7ecf/images/tangytd/v.png)
+
+# final words
+Hope you found this feedback helpfull all the best with your game and judiging from your last stream. Gute Besserung mit der Erklältung pass auf Männergrippe kann tödlich sein. 
+https://www.youtube.com/watch?v=q_bJE0bufVw&ab_channel=TimJakobowski
