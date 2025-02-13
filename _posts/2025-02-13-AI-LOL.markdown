@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "AI LOL"
+date:   2025-02-13 20:07:24 +0100
+categories: 
+---
+# AI LOL
+I am a software developer, I like developing, I like writing code. AI is all the buzz agents jr. software developers,
+but it does not pass a day where I see a video debunking the performance of AI. This article will be updated from 
+time to time collecting all posts, articles dunking / debunking AI. Have a laught with we as long they are bad maybe one day
+they will do all the things they promise and more and I will be out of a job, until then "AI LOL".
+
+Pattern: <my comment> - <title of source> - <link to source> 
+- AI benchmarks are BS - the disturbing reality of AI coding - https://www.youtube.com/watch?v=QnOc_kKKuac&ab_channel=theSeniorDev
+- 20 files LOL - My project became so big that claude can't properly understand it - https://www.reddit.com/r/ChatGPTCoding/comments/1ibtjri/my_project_became_so_big_that_claude_cant/
+- Please buy our product but do not use it in your job application - AI Company Asks Job Applicants Not to Use AI in Job Applications - https://www.404media.co/anthropic-claude-job-application-ai-assistants/
