@@ -7,23 +7,32 @@ Within a week this can range from one, two or even three days recovery.
 
 # trainings perspective macro
 week#1 - trainings
+
 week#2 - trainings
+
 week#3 - trainings
+
 week#4 - recovery week
 
 # trainings perspective micro 
 Monday    - rest
+
 Tuesday   - hard
+
 Wednesday - endurance
+
 Thursday  - hard
+
 Friday    - rest
+
 Saturday  - endurance
+
 Sunday    - endurance
 
 # difference between a recovery day and endurance day
 The name might be indicating it but these two are not the same. 
 Often and I made this mistake two getting cheaky and thinking "on my recoveryday I go so easy that I can do it a bit harder and make it an endrance day I will recover and traing endurance" -> "does this work?" -> "No dont do!"
-Recovery days have to be so easy that it should be embarrising to upload your ride to strava. 
+Recovery days have to be so easy that it should be embarrising to upload your ride to strava. [^1] 
 Recovery rides should only follow one purpose and one purpose only: 
 
 > HELP YOU RECOVER
@@ -35,7 +44,7 @@ One tipp to keep your recovery ride very easy is to spin a high gear. This is gr
 
 # recovery ride vs total rest
 If you asked me few years every day not riden was a day lost. Now since I am a bit older I enjoy complete off days quite a lot. There is much time to get your normal life sorted do something other then cycling and not physicly also mentally recover from cycling. 
-Therefor my opinion changed a bit on complete offdays I prefere them over recoveryrides and complete take the days off. This somewhat seem in line what UAE is doing which is shown in charlies video Sivakov takes compelte offdays only walks.[^2] 
+Therefor my opinion changed a bit on complete offdays I prefere them over recoveryrides and complete take the days off. This somewhat seem in line what UAE is doing which is shown in charlies video Sivakov takes compelte offdays only walks. [^2] 
 Only danger in complete off days is body shuts down too much and is not fireing the next days. I only get that feeling while I litterly do nothing on my off days and lay around all day. This can be prevented by a walk / groceries shopping / go shopping etc. 
 The reader should find out for themself if complete offdays feel better then recoveryrides. Except for the day after a hard race there I definitly would recommend a recovery ride to get blood to the legs.
 
